@@ -1,0 +1,6 @@
+token=NDkyOTEwOTg4Njk0Mzg4NzM2.DodSsw.70TixxtE-Cb4m-2Qia_bTU_QaXs
+owner=421210436646731776
+prefix=5
+game=Tybe 5help
+stayinchannel=true
+songinstatus=true
