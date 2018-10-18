@@ -1,4 +1,4 @@
-token=NTAyNDM3MDY0NDIwMzYwMjA1.Dqn6hQ.zbidMefQhcjKcNzPT2QdS4ehZnA
+token=NTAyNDM3MDY0NDIwMzYwMjA1.Dqn71w.l3E6JICMN2SgIqvrlAyh3zKi6hI
 owner=351992751388098561
 prefix=h
 game=Tybe hhelp
